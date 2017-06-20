@@ -14,6 +14,20 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
+               BlueprintIdentifier = "AAC4FD1D1EE0DBB400C46D10"
+               BuildableName = "tappityWatch.app"
+               BlueprintName = "tappityWatch"
+               ReferencedContainer = "container:Tappity.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
                BlueprintIdentifier = "AADD1CF01EDD0D9200D371E1"
                BuildableName = "Tappity.app"
                BlueprintName = "Tappity"
@@ -32,9 +46,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "AADD1CF01EDD0D9200D371E1"
-            BuildableName = "Tappity.app"
-            BlueprintName = "Tappity"
+            BlueprintIdentifier = "AAC4FD1D1EE0DBB400C46D10"
+            BuildableName = "tappityWatch.app"
+            BlueprintName = "tappityWatch"
             ReferencedContainer = "container:Tappity.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -51,16 +65,27 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <RemoteRunnable
+         runnableDebuggingMode = "2"
+         BundleIdentifier = "com.apple.Carousel"
+         RemotePath = "/Tappity">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "AADD1CF01EDD0D9200D371E1"
-            BuildableName = "Tappity.app"
-            BlueprintName = "Tappity"
+            BlueprintIdentifier = "AAC4FD1D1EE0DBB400C46D10"
+            BuildableName = "tappityWatch.app"
+            BlueprintName = "tappityWatch"
             ReferencedContainer = "container:Tappity.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </RemoteRunnable>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "AAC4FD1D1EE0DBB400C46D10"
+            BuildableName = "tappityWatch.app"
+            BlueprintName = "tappityWatch"
+            ReferencedContainer = "container:Tappity.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -70,16 +95,27 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <RemoteRunnable
+         runnableDebuggingMode = "2"
+         BundleIdentifier = "com.apple.Carousel"
+         RemotePath = "/Tappity">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "AADD1CF01EDD0D9200D371E1"
-            BuildableName = "Tappity.app"
-            BlueprintName = "Tappity"
+            BlueprintIdentifier = "AAC4FD1D1EE0DBB400C46D10"
+            BuildableName = "tappityWatch.app"
+            BlueprintName = "tappityWatch"
             ReferencedContainer = "container:Tappity.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </RemoteRunnable>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "AAC4FD1D1EE0DBB400C46D10"
+            BuildableName = "tappityWatch.app"
+            BlueprintName = "tappityWatch"
+            ReferencedContainer = "container:Tappity.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">

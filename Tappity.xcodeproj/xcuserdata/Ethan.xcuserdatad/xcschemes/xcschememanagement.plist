@@ -9,9 +9,24 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>tappityWatch (Notification).xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>tappityWatch.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>AAC4FD1D1EE0DBB400C46D10</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>AADD1CF01EDD0D9200D371E1</key>
 		<dict>
 			<key>primary</key>
